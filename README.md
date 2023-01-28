@@ -6,4 +6,6 @@ In this project there is a library implemented "implementation 'com.faendir.rhin
 - import org.mozilla.javascript.Context
 - import org.mozilla.javascript.Scriptable;
 
-<img src="https://i.postimg.cc/J4CC5NPf/Sin-t-tulo.png">
+<p align="center">
+<img size="300" src="https://i.postimg.cc/J4CC5NPf/Sin-t-tulo.png">
+</p>
