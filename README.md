@@ -7,5 +7,5 @@ In this project there is a library implemented "implementation 'com.faendir.rhin
 - import org.mozilla.javascript.Scriptable;
 
 <p align="center">
-<img size="300" src="https://i.postimg.cc/J4CC5NPf/Sin-t-tulo.png">
+<img width="300" src="https://i.postimg.cc/J4CC5NPf/Sin-t-tulo.png">
 </p>
